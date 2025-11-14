@@ -1,6 +1,6 @@
 # For Classification
 ## SZUTreeHSI
-Texture-Aware Self-Attention Model for Hyperspectral Tree Species Classification
+Paper: Texture-Aware Self-Attention Model for Hyperspectral Tree Species Classification
 
 link: http://szu-hsilab.com/academic/szu-tree-dataset/
 
