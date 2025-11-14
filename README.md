@@ -15,7 +15,7 @@ Paper: UAVid: A semantic segmentation dataset for UAV imagery
 
 link: https://uavid.nl/#home
 
-https://www.kaggle.com/datasets/dasmehdixtr/uavid-v1
+[https://www.kaggle.com/datasets/dasmehdixtr/uavid-v1](https://www.kaggle.com/datasets/anirbanpolvolt/uavid-test-dataset)
 
 # For Change Detection
 ## UAV-SD
