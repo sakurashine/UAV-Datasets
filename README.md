@@ -1,6 +1,7 @@
 ## For Classification
 # SZUTreeHSI
 Texture-Aware Self-Attention Model for Hyperspectral Tree Species Classification
+
 link: http://szu-hsilab.com/academic/szu-tree-dataset/
 
 ## For Segmentation
@@ -11,7 +12,9 @@ Codes: https://github.com/yzbouc/UAVM
 
 # UAVid
 Paper: UAVid: A semantic segmentation dataset for UAV imagery
+
 link: https://uavid.nl/#home
+
 https://www.kaggle.com/datasets/dasmehdixtr/uavid-v1
 
 ## For Change Detection
